@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Yun Xin</h1>
+<h1 align="left">Hey There 👋 I'm Yun Xin</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm an Information Technology student currently pursuing my diploma. I have an insatiable curiosity for tech and I'm interested in learning absolutely **everything** I can get my hands on! Whether it's building databases, designing user interfaces, or taking as a project manager role, I enjoy the entire process of bringing ideas to life.</p>
+<p align="left">I'm an Information Technology student currently pursuing my diploma. I have an insatiable curiosity for tech and I'm interested in learning absolutely **everything** ! Whether it's building databases, designing user interfaces, or taking as a project manager role, I enjoy the entire process of bringing ideas to life.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br>- 🎯 Gearing up for my upcoming hackathons.<br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 💰 Blockchain architectures<br>- 🔍Web3.0 & Web4.0<br><br>📌Goals:<br>- 🖥️ Strengthen my skills and ability to code independently without heavy reliance on AI.</p>
+<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>Currently hunting for my next hackathon win!<br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br>- 🎯 Gearing up for my upcoming hackathons.<br>- 👾 Bridging the gap between AI and Game Dev.<br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 💰 Blockchain Architectures<br>- 🔍 Web3.0 & Web4.0<br>- 👾 Interactive Design and Game <br>Mechanics<br><br>📌Goals:<br>- 🖥️  Strengthen my skills and ability to code independently without heavy reliance on AI.<br>-  🚀 Bridging the gap between AI and interactive software.</p>
 
 ###
 
