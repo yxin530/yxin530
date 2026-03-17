@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Yun%20Xin&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93%20Information%20Technology%20Student%20%7C%20%F0%9F%9A%80%20Passionate%20Learner%20%20%7C%20%F0%9F%92%BB%20Tech%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="60px" width="60px">
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hey%20there%20👋🏻,%20I%27m%20Yun%20Xin&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93%20Information%20Technology%20Student%20%7C%20%F0%9F%9A%80%20Passionate%20Learner%20%20%7C%20%F0%9F%92%BB%20Tech%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 ###
 
@@ -62,8 +66,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
 ###
@@ -81,3 +85,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2N2NDJ4ODM3b3dsdnlyOTNwb2tkc2c4dTJ1M3lwbTEyMzdpOTdycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="120" />
+</div>
