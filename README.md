@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>- ☁ AWS Pratictioner Certificatoin <br>Currently hunting for more!<br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br>- 👾 Bridging the gap between AI and Game Dev.<br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 🔍 Web3.0 & Web4.0<br>- 👾 Interactive Design and Game Mechanics<br>-🌾 Agro-Logistics & Smart Supply Chains<br><br>📌Goals:<br>- 🖥️  Strengthen my skills and ability to code independently without heavy reliance on AI.<br>-  🚀 Bridging the gap between AI and interactive software.</p>
+<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>- ☁ AWS Pratictioner Certification <br>Currently hunting for more!<br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br>- 👾 Bridging the gap between AI and Game Dev.<br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 🔍 Web3.0 & Web4.0<br>- 👾 Interactive Design and Game Mechanics<br>-🌾 Agro-Logistics & Smart Supply Chains<br><br>📌Goals:<br>- 🖥️  Strengthen my skills and ability to code independently without heavy reliance on AI.<br>-  🚀 Bridging the gap between AI and interactive software.</p>
 
 ###
 
