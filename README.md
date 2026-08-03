@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>- ☁ AWS Pratictioner Certification <br>Currently hunting for more!<br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 🔍 Web3.0<br>- 👾 Interactive Design and Game Mechanics<br>-⛓️ Blockchain<br><br>📌Goals:<br>- 🖥️  Strengthen my skills and ability to code independently without heavy reliance on AI.<br>-  🚀 Bridging the gap between AI and interactive software.</p>
+<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>- ☁ AWS Pratictioner Certification <br>Currently hunting for more!<br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 🔍 Web3.0<br>-⛓️ Blockchain<br><br>📌Goals:<br>- 🚀 Bridging the gap between AI and interactive software.</p>
 
 ###
 
@@ -85,7 +85,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2N2NDJ4ODM3b3dsdnlyOTNwb2tkc2c4dTJ1M3lwbTEyMzdpOTdycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="120" />
-</div>
