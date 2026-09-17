@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>- ☁ AWS Pratictioner Certification <br>Currently hunting for more!<br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 🔍 Web3.0<br>-⛓️ Blockchain<br><br>📌Goals:<br>- 🚀 Bridging the gap between AI and interactive software.</p>
+<p align="left">🏆 Achievements: <br>- 🏅Ranked Top5 in Top Coders Malaysia 2025 <br>- ☁ AWS Pratictioner Certification <br>- 🔍Ranked Top 15% in OSINT CTF <br>Currently Hunting for more! <br><br>🔭 I’m currently working on: <br>- 🛠 Building interactive projects. <br><br>🌱 I’m currently exploring deeper into :<br>- 🤖 AI and Machine Learning.<br>- 🔍 Web3.0<br>-⛓️ Blockchain<br><br>📌Goals:<br>- 🚀 Bridging the gap between AI and interactive software.</p>
 
 ###
 
